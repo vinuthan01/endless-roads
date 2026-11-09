@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 800" role="img" aria-labelledby="title desc">
+<title id="title">Endless Roads — driving into the sunset</title>
+<desc id="desc">A stylized sports car on a winding mountain highway, with road markings and traffic ahead beneath a warm sunset sky.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#101b38"/><stop offset=".42" stop-color="#8b416b"/><stop offset=".72" stop-color="#ffad68"/><stop offset="1" stop-color="#ffd28a"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#fff5cf"/><stop offset=".48" stop-color="#ffd788"/><stop offset="1" stop-color="#ff9d69" stop-opacity="0"/></radialGradient>
+  <linearGradient id="road" x2="0" y2="1"><stop stop-color="#52576a"/><stop offset="1" stop-color="#252b3b"/></linearGradient>
+  <linearGradient id="car" x2="0" y2="1"><stop stop-color="#ffdb8a"/><stop offset=".45" stop-color="#ff741f"/><stop offset="1" stop-color="#ad285a"/></linearGradient>
+  <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#b8efff"/><stop offset="1" stop-color="#345175"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+  <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#fff" opacity=".16"/></pattern>
+</defs>
+<rect width="1440" height="800" fill="url(#sky)"/>
+<circle cx="1040" cy="326" r="178" fill="url(#sun)"/>
+<circle cx="1040" cy="326" r="69" fill="#ffe4a3" opacity=".93"/>
+<path d="M0 386 115 262 202 345 350 198 485 367 631 220 775 355 908 238 1040 370 1169 219 1320 361 1440 267v231H0Z" fill="#34304f"/>
+<path d="m0 438 160-92 124 82 168-131 130 146 174-113 130 111 161-141 170 121 116-83 107 70v161H0Z" fill="#493655"/>
+<path d="M0 450q150-82 307-5t315-7q190-100 383 17t435-20v170H0Z" fill="#72506a" opacity=".72"/>
+<path d="M0 535h1440v265H0Z" fill="#252c3c"/>
+<path d="M0 532q177-22 335 10t323 0 360-12 422 8" fill="none" stroke="#ffd79a" stroke-width="4" opacity=".78"/>
+<path d="M0 559q220-27 437 2t456-10 547 6" fill="none" stroke="#d9896d" stroke-width="5" opacity=".65"/>
+<!-- distant traffic -->
+<g opacity=".92"><path d="m593 500 20-34 55-4 25 38v16h-100Z" fill="#36a7ba"/><path d="m607 467 12-23h41l12 22" fill="#4f8096"/><rect x="600" y="510" width="15" height="8" rx="3" fill="#ffdf9b"/><rect x="670" y="510" width="14" height="8" rx="3" fill="#ffdf9b"/>
+<path d="m834 479 16-27 47-3 20 31v14h-83Z" fill="#f1b94e"/><path d="m847 453 10-18h34l11 18" fill="#74859a"/><rect x="840" y="489" width="12" height="7" rx="3" fill="#fff1c4"/><rect x="899" y="489" width="12" height="7" rx="3" fill="#fff1c4"/></g>
+<!-- sweeping mountain road -->
+<path d="M604 518 836 518 1278 800H162Z" fill="url(#road)"/>
+<path d="m604 518-58 0L0 800h162Z" fill="#4e5d4b"/><path d="m836 518 57 0 547 282h-162Z" fill="#465441"/>
+<path d="M607 520 164 800M834 520l444 280" fill="none" stroke="#f7c77e" stroke-width="8" opacity=".85"/>
+<path d="M720 530v48m0 34v49m0 38v53m0 64v41" stroke="#fff3d5" stroke-width="9" stroke-linecap="round" opacity=".8"/>
+<!-- roadside reflectors -->
+<g fill="#ffd678"><path d="m308 712 4-22 8-3 2 30Z"/><path d="m1120 710-5-23-8-4-1 30Z"/><path d="m411 648 4-19 7-2 2 25Z"/><path d="m1016 648-4-19-7-2-1 25Z"/></g>
+<!-- hero car shadow -->
+<ellipse cx="720" cy="751" rx="250" ry="34" fill="#0c1222" opacity=".56" filter="url(#blur)"/>
+<!-- car body -->
+<path d="M464 688q18-61 75-85l83-75q34-31 93-31h54q58 0 97 33l70 74q54 23 68 83l15 53q4 19-17 25l-67 11H505l-56-20q-17-7-11-26Z" fill="url(#car)" stroke="#ffcf82" stroke-width="5"/>
+<path d="m646 548 42-39q15-13 39-13h47q35 0 60 21l50 49-236-2Z" fill="url(#glass)" stroke="#ffcb7b" stroke-width="5"/>
+<path d="m759 500 4 63m-113-15 238 4" stroke="#f8cf91" stroke-width="5" opacity=".75"/>
+<path d="M466 677q42-25 106-20l-12 46-110 9Zm570-11q48 1 70 23l17 31-103-15Z" fill="#fff0bf"/>
+<path d="M489 707h69m408-1h65" stroke="#fff" stroke-width="11" stroke-linecap="round" opacity=".6"/>
+<path d="M553 739h333" stroke="#571d43" stroke-width="9" opacity=".75"/>
+<g><circle cx="548" cy="754" r="46" fill="#151b29" stroke="#858a94" stroke-width="8"/><circle cx="548" cy="754" r="17" fill="#d5d7d5"/><circle cx="901" cy="754" r="46" fill="#151b29" stroke="#858a94" stroke-width="8"/><circle cx="901" cy="754" r="17" fill="#d5d7d5"/></g>
+<rect width="1440" height="800" fill="url(#grain)" opacity=".35"/>
+<path d="M0 0h1440v800H0Z" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2"/>
+<g font-family="system-ui,Segoe UI,sans-serif"><text x="54" y="78" fill="#fff4d9" font-size="16" font-weight="700" letter-spacing="5" opacity=".82">VINUTHAN01 PRESENTS</text><text x="50" y="143" fill="#fff4d9" font-size="51" font-weight="900" letter-spacing="8">ENDLESS ROADS</text><text x="56" y="182" fill="#ffd27f" font-size="17" font-weight="600" letter-spacing="4">DRIVE THE DISTANCE</text></g>
+</svg>
+
