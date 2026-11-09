@@ -4,11 +4,11 @@ A browser-based 3D driving game. Weave through two-way traffic, stay on the road
 
 **[▶ Play Endless Roads](https://vinuthan01.github.io/endless-roads/)**
 
-## Game preview
+## Gameplay screenshot
 
 <p align="center">
-  <img src="screenshots/road-scene.svg" alt="Stylized preview illustration of a sports car on an endless mountain road at sunset, with traffic in the distance" width="960">
-  <br><em>Endless Roads — a browser based 3D driving game.</em>
+  <img src="screenshots/gameplay-level-2.png" alt="Endless Roads gameplay screenshot showing a blue sports car passing traffic on a mountain road at sunset" width="960">
+  <br><em>Level 2 — weaving through traffic at 326 km/h.</em>
 </p>
 
 ## Features
@@ -42,7 +42,7 @@ Download or clone this repository, then open `index.html` in a modern browser. T
 
 ## Tech and credits
 
-The game uses HTML, CSS, JavaScript, and [Three.js](https://threejs.org/). Three.js is distributed under the MIT License. The game creates its sound effects and music with the Web Audio API. The preview illustration is original SVG artwork included in this repository.
+The game uses HTML, CSS, JavaScript, and [Three.js](https://threejs.org/). Three.js is distributed under the MIT License. The game creates its sound effects and music with the Web Audio API. The gameplay screenshot shows Level 2 during a run.
 
 ## License
 
@@ -51,5 +51,6 @@ The project is available under the MIT License. See [`LICENSE`](LICENSE).
 ---
 
 Made by [vinuthan01](https://github.com/vinuthan01).
+
 
 
