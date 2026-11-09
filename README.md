@@ -1,6 +1,6 @@
 # Endless Roads
 
-A browser based 3D driving game. Weave through two way traffic, stay on the road, and reach the finish distance to unlock faster, denser levels.
+A browser-based 3D driving game. Weave through two-way traffic, stay on the road, and reach the finish distance to unlock faster, denser levels.
 
 **[▶ Play Endless Roads](https://vinuthan01.github.io/endless-roads/)**
 
@@ -14,7 +14,7 @@ A browser based 3D driving game. Weave through two way traffic, stay on the road
 ## Features
 
 - Procedurally varied roads, hills, and scenery
-- Two way traffic with cars, vans, SUVs, and trucks
+- Two-way traffic with cars, vans, SUVs, and trucks
 - Endless levels that increase in speed and traffic density
 - Keyboard, mouse, and touch controls
 - Optional automatic acceleration and two steering modes
@@ -51,3 +51,5 @@ The project is available under the MIT License. See [`LICENSE`](LICENSE).
 ---
 
 Made by [vinuthan01](https://github.com/vinuthan01).
+
+
